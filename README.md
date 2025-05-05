@@ -14,7 +14,7 @@ Most relevant technologies used in the Boilerplate:
 
 ### 📚 Setup and scripts
 
-> Before start [download](https://github.com/alpredovandy/nuxt-web-boilerplate.zip) or clone the boilerplate.
+> Before start [download](https://github.com/alpredovandy/nuxt-web-boilerplate/archive/master.zip) or clone the boilerplate.
 > **Install** all the dependencies.
 
 ```shell
